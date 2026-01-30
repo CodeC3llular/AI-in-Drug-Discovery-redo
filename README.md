@@ -125,7 +125,7 @@ AI_and_Drug_Discovery_Course_2026/
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/[your-username]/AI_and_Drug_Discovery_Course_2026.git
+https://github.com/CodeC3llular/AI-in-Drug-Discovery-redo/tree/main
    ```
 
 2. **Open the notebook in Google Colab:**
