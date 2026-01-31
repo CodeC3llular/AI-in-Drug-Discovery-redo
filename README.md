@@ -103,7 +103,7 @@ AI_and_Drug_Discovery_Course_2026/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.x**
 - **Libraries:**
@@ -211,11 +211,10 @@ This curated dataset enables:
 
 ---
 
-## 👤 Author
+### Author
 
 **Michelle Mupanduki**  
-M.S. Biotechnology  
-Northeastern University  
+M.S. Biotechnology   
 
 ---
 
