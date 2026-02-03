@@ -123,27 +123,27 @@ AI_and_Drug_Discovery_Course_2026/
 
 ### Steps to Reproduce
 
-1. **Clone this repository:**
-   ```bash
-https://github.com/CodeC3llular/AI-in-Drug-Discovery-redo/tree/main
-   ```
+**1. Clone this repository:**
+```bash
+git clone https://github.com/[your-username]/AI_and_Drug_Discovery_Course_2026.git
+```
 
-2. **Open the notebook in Google Colab:**
-   - Go to https://colab.research.google.com/
-   - File → Upload notebook
-   - Select `assignment_2_QSAR_data_curation.ipynb`
+**2. Open the notebook in Google Colab:**
+- Go to https://colab.research.google.com/
+- File → Upload notebook
+- Select `assignment_2_QSAR_data_curation.ipynb`
 
-3. **Mount Google Drive:**
-   - Run the first cell to connect to your Google Drive
-   - Authorize access when prompted
+**3. Mount Google Drive:**
+- Run the first cell to connect to your Google Drive
+- Authorize access when prompted
 
-4. **Run all cells sequentially:**
-   - Runtime → Run all
-   - Or execute cells one by one with Shift+Enter
+**4. Run all cells sequentially:**
+- Runtime → Run all
+- Or execute cells one by one with Shift+Enter
 
-5. **Access output files:**
-   - Files will be saved in: `Google Drive/Colab Notebooks/data/`
-   - Download CSV files for further analysis
+**5. Access output files:**
+- Files will be saved in: `Google Drive/Colab Notebooks/data/`
+- Download CSV files for further analysis
 
 ---
 
