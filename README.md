@@ -1,4 +1,4 @@
-# AI-in-Drug-Discovery-redo
+# AI-in-Drug-Discovery-Couse-2026-resubmission
 QSAR Data Curation for EGFR Target - Assignment 2
 # AI and Drug Discovery Course 2026
 
@@ -164,8 +164,7 @@ git clone https://github.com/[your-username]/AI_and_Drug_Discovery_Course_2026.g
      - `bioactivity_class`: Active/Intermediate/Inactive classification
 
 ### Data Quality Metrics:
-- Data retention rate: ~XX% of initial records
-- Balanced class distribution for machine learning
+- Data retention rate: ~85.6% of initial records
 - All compounds have valid SMILES and standardized IC50 values
 - No missing values in critical columns
 
@@ -174,11 +173,11 @@ git clone https://github.com/[your-username]/AI_and_Drug_Discovery_Course_2026.g
 ##  Scientific Context
 
 ### EGFR in Cancer Biology
-The Epidermal Growth Factor Receptor (EGFR) is a transmembrane tyrosine kinase receptor that plays a crucial role in cell proliferation, survival, and differentiation. Aberrant EGFR signaling is implicated in various cancers:
+The Epidermal Growth Factor Receptor (EGFR) is a transmembrane tyrosine kinase receptor that plays a crucial role in cell proliferation, survival and differentiation. Aberrant EGFR signaling is implicated in various cancers:
 
-- **Non-Small Cell Lung Cancer (NSCLC):** EGFR mutations found in ~15-30% of cases (higher in Asian populations)
+- **Non-Small Cell Lung Cancer (NSCLC):** EGFR mutations found in ~15-30% of cases and higher in Asian populations 
 - **Glioblastoma:** EGFR amplification occurs in ~40-50% of primary glioblastomas
-- **Other cancers:** Colorectal, breast, head and neck cancers
+- **Other cancers:** Colorectal, breast head and neck cancers
 
 ### QSAR Modeling Applications
 This curated dataset enables:
@@ -215,7 +214,6 @@ This curated dataset enables:
 
 **Michelle Mupanduki**  
 M.S. Biotechnology   
-
 ---
 
 ##  Contact
